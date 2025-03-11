@@ -1,0 +1,27 @@
+{
+  "name": "exer-05-mongodb-schilion",
+  "version": "1.0.0",
+  "description": "- Clemente, Carl Timothy E. ### Degree Program - BS Computer Science ### Student Number  - 2021-68301 ### Section - C-1L ### Key Takeaways - Properly setting up an Express.js server involves initializing a Node.js project, installing dependencies, and configuring routes. - Never store secrets (e.g., GitHub tokens) in package.json or any source code files. Instead, use environment variables. - GitHub Push Protection prevents committing sensitive data, and you may need to manually approve a push if flagged.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/CMSC-100-2S24-25/exer-05-mongodb-Schilion.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CMSC-100-2S24-25/exer-05-mongodb-Schilion/issues"
+  },
+  "homepage": "https://github.com/CMSC-100-2S24-25/exer-05-mongodb-Schilion#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.12.1",
+    "needle": "^3.3.1"
+  }
+}
